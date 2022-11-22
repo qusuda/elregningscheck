@@ -3,4 +3,4 @@
 
     pip install matplotlib nordpool pyeloverblik  
 
-![alt text](images/output.png "Output example")
+![alt text](images/Output.png "Output example")
